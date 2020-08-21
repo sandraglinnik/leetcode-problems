@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avocadick/CLionProjects/leetcode/problems/264_UglyNumberII/main.cpp
+iostream
+-
+queue
+-
+set
+-
+

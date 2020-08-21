@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avocadick/CLionProjects/leetcode/problems/611_ValidTriangleNumber /main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/406_QueueReconsructionByHeight.dir/main.cpp.o  -o 406_QueueReconsructionByHeight 

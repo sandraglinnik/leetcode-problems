@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/128_LongestConsecutiveSequence.dir/main.cpp.o  -o 128_LongestConsecutiveSequence 

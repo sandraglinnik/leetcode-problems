@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1146_SnapshotArray.dir/main.cpp.o  -o 1146_SnapshotArray 

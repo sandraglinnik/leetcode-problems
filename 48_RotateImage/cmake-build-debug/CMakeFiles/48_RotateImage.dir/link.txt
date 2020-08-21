@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/48_RotateImage.dir/main.cpp.o  -o 48_RotateImage 

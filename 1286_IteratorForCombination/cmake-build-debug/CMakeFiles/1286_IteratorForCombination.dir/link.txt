@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1286_IteratorForCombination.dir/main.cpp.o  -o 1286_IteratorForCombination 

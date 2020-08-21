@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/472_ConcatenatedWords.dir/main.cpp.o  -o 472_ConcatenatedWords 

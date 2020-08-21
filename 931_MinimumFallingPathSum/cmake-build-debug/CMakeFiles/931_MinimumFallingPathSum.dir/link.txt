@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/931_MinimumFallingPathSum.dir/main.cpp.o  -o 931_MinimumFallingPathSum 

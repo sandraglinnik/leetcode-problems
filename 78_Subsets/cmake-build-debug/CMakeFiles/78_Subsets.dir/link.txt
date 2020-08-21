@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/78_Subsets.dir/main.cpp.o  -o 78_Subsets 

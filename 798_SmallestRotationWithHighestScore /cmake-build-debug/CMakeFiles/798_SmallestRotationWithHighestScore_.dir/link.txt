@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/798_SmallestRotationWithHighestScore_.dir/main.cpp.o  -o 798_SmallestRotationWithHighestScore_ 

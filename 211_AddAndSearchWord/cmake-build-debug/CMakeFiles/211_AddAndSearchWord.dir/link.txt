@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/211_AddAndSearchWord.dir/main.cpp.o  -o 211_AddAndSearchWord 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1224_MaximumEqualFrequency.dir/main.cpp.o  -o 1224_MaximumEqualFrequency 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/528_RandomPickWithWeight.dir/main.cpp.o  -o 528_RandomPickWithWeight 

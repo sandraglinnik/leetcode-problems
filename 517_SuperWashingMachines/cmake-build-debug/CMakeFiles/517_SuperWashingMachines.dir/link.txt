@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/517_SuperWashingMachines.dir/main.cpp.o  -o 517_SuperWashingMachines 

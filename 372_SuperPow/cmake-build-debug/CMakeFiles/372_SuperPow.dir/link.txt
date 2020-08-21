@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/372_SuperPow.dir/main.cpp.o  -o 372_SuperPow 

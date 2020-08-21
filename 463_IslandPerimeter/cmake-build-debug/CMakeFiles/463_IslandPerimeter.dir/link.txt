@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/463_IslandPerimeter.dir/main.cpp.o  -o 463_IslandPerimeter 

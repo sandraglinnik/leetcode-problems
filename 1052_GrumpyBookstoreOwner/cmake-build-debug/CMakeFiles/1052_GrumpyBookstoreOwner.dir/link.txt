@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1052_GrumpyBookstoreOwner.dir/main.cpp.o  -o 1052_GrumpyBookstoreOwner 

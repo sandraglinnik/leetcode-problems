@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/352_DataStreamAsDisjointIntervals.dir/main.cpp.o  -o 352_DataStreamAsDisjointIntervals 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/824_GoatLatin.dir/main.cpp.o  -o 824_GoatLatin 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/212_WordSearchII.dir/main.cpp.o  -o 212_WordSearchII 

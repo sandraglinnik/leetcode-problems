@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BinTreePostorder.dir/main.cpp.o  -o BinTreePostorder 

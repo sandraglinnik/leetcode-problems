@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/46_Permutation.dir/main.cpp.o  -o 46_Permutation 

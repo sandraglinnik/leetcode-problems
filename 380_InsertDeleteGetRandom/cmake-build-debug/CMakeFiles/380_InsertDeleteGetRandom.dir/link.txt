@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/380_InsertDeleteGetRandom.dir/main.cpp.o  -o 380_InsertDeleteGetRandom 

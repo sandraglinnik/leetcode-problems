@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/413_ArithmeticSlices.dir/main.cpp.o  -o 413_ArithmeticSlices 

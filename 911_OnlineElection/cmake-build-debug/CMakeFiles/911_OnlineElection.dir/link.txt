@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/911_OnlineElection.dir/main.cpp.o  -o 911_OnlineElection 

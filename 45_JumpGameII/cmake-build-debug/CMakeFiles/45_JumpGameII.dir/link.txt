@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/45_JumpGameII.dir/main.cpp.o  -o 45_JumpGameII 

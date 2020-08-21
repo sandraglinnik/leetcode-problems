@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/51_NQueens.dir/main.cpp.o  -o 51_NQueens 

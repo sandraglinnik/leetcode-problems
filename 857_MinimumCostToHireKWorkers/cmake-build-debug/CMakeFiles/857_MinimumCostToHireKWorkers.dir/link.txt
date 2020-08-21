@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/857_MinimumCostToHireKWorkers.dir/main.cpp.o  -o 857_MinimumCostToHireKWorkers 

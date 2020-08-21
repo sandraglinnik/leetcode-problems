@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/76_MinimumWindowSubstring.dir/main.cpp.o  -o 76_MinimumWindowSubstring 
